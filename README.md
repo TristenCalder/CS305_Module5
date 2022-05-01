@@ -8,3 +8,5 @@ I then found a reddit thread discussing that the library was out of date and did
 I then gave up until PyTube gets updated and havent worked on it since. 
 
 ###Yeah. Sometimes things become outdated but if you can learn how to update the library, you can possibly use the pytube. -Jake Borneman
+
+##### Basic optimization updates were made for the 5/1/22 Update.
